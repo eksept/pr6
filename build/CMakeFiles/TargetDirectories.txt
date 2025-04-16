@@ -1,0 +1,4 @@
+/home/da/Desktops/Desktop1/prac6/build/CMakeFiles/rebuild_cache.dir
+/home/da/Desktops/Desktop1/prac6/build/CMakeFiles/edit_cache.dir
+/home/da/Desktops/Desktop1/prac6/build/CMakeFiles/ex1.dir
+/home/da/Desktops/Desktop1/prac6/build/CMakeFiles/ex2.dir
